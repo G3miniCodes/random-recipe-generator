@@ -44,8 +44,6 @@ The *Random Recipe Generator* is a fun and interactive *Streamlit* application t
 ✅ Recipe filtering (e.g., vegetarian, vegan, quick meals).  
 ✅ User preferences & favorite recipe saving.  
 ✅ API integration for live recipe updates.  
-
-## 📄 *License*  
-This project is *open-source* under the MIT License.  
+  
 
 🚀 *Start cooking something new today!*  
